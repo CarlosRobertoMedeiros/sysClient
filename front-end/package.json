@@ -1,0 +1,25 @@
+{
+  "name": "siscliente",
+  "version": "1.0.0",
+  "description": "Crud de Clientes",
+  "main": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "none"
+  },
+  "keywords": [
+    "Crud"
+  ],
+  "author": "Carlos Roberto 2018",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp-webserver": "^0.9.1"
+  },
+  "dependencies": {
+    "bootstrap": "4.3.1",
+    "gulp": "^4.0.0"
+  }
+}
