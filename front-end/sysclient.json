@@ -1,0 +1,11 @@
+{
+    "name": "Sistema de Cadastro de Clientes",
+    "abbr": "SisCadCli",
+    "company": {
+        "name": "Empresa Pessoal",
+        "abbr": "EP"
+    },
+    "description": "O Sistema de Cadastro de Clientes visa desenvolver uma simples aplicação para modificar tecnologias ",
+    "keywords": "Projeto Arquitetural dentro da limitação da equipe",
+    "year": "2019"
+}
